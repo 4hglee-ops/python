@@ -13,7 +13,7 @@
 | 코딩테스트 입문 | ✅ Complete |
 | 코딩 기초 트레이닝 | ✅ Complete |
 | Programmers Level 0 | ✅ Complete |
-| PCCE | ✅ Lv.2 · 742 |
+| PCCE | ✅ Lv.3 · 856 |
 | Programmers Level 1 | 🔄 In Progress |
 | PCCP 유형 학습 | 🔄 In Progress |
 
@@ -21,17 +21,28 @@
 
 ## 🏅 PCCE
 
-**PCCE Lv.2 · 742 / 1000**
+### Latest Result
 
-- 빈칸 채우기: **430점**
-- 디버깅: **290점**
-- 코드 작성: **22점**
+**PCCE Lv.3 · 856 / 1000** — 2026.08.31
+
+- 빈칸 채우기: **360 / 360**
+- 디버깅: **360 / 360**
+- 코드 작성: **136 / 280**
 
 <p align="center">
-  <img src="./docs/assets/pcce_이홍규_0729.png" width="650" alt="PCCE 성적표" />
+  <img src="./docs/assets/pcce-2026-08-31-lv3-856.png" width="650" alt="PCCE Lv.3 856점 성적표" />
 </p>
 
-첫 PCCE 결과를 현재 위치를 확인하는 기준점으로 삼고, 이후에는 **직접 코드 작성 능력과 제한 시간 내 구현 능력**을 집중적으로 보완하고 있습니다.
+### Progress
+
+| Date | Level | Score |
+| --- | :---: | ---: |
+| 2026.07.29 | Lv.2 | 742 |
+| 2026.08.31 | **Lv.3** | **856** |
+
+**742 → 856 (+114점)**
+
+첫 시험 결과를 기준점으로 삼아 코드 작성 능력과 제한 시간 내 구현을 집중적으로 보완했고, 두 번째 시험에서 **Lv.3 · 856점**까지 향상했습니다.
 
 ---
 
@@ -98,7 +109,7 @@
 
 ## 🎯 Current Focus
 
-Level 0 완주 이후 다음 단계에 집중하고 있습니다.
+Level 0 완주와 PCCE Lv.3 달성 이후 다음 단계에 집중하고 있습니다.
 
 - Programmers Level 1 문제 풀이
 - PCCE 코드 작성형 보완
