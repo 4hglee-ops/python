@@ -5,8 +5,6 @@ def solution(n, arr1, arr2):
     answer = []
     arr1_bin = []
     arr2_bin = []
-    num = 0    
-    
     for a1 in arr1:
         a1_bin = bin(a1)[2:]
         if len(a1_bin) < n:
